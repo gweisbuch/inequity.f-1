@@ -1,5 +1,5 @@
 Fortran (transforjass.f) and nlogo (BMnov.nlogo)
-programs used in manuscript "Lattice dynamics of inequity"
+**programs used in manuscript "Lattice dynamics of inequity"**
 submitted to JASSS in sept. 2017. The pdf version 
 of the manuscript is gwlatdyninequity.pdf.
 
@@ -23,7 +23,7 @@ one observes spatial domains and specific patterns
  of the inequity condition even in the absence of tags.  
 
 
-keywords
+**keywords**
 Inequity, Dynamical regimes, Lattice, Transitions, Tags.
 
 
