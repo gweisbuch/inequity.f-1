@@ -1,4 +1,5 @@
-Fortran and nlogo programs used in manuscript "Lattice dynamics of inequity"
+Fortran (transforjass.f) and nlogo (BMnov.nlogo)
+programs used in manuscript "Lattice dynamics of inequity"
 submitted to JASSS in sept. 2017. The pdf version 
 of the manuscript is gwlatdyninequity.pdf.
 
